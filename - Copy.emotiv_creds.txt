@@ -1,0 +1,5 @@
+—begin file —
+# client_id and client_secret for Emotiv application
+client_id qIlehECSTukFXeR8aZzKqCYLed57byIqJcL0KXLe
+client_secret rLMPOFHSndr9DILtxu6Qa3LTaiLcGJ3fWgq6Q5DX9d08wKoMjEgW6QwIEx5oOC1QGM0ke22rsoIAyrFdjR4rsPjnOPmbkjiRu9oaKFTQ8wTmivp1fjXs1ZoSez35j5CF
+—end file—
